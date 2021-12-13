@@ -54,3 +54,37 @@ Kivy widgets can be categorized as follows:
 
 ----
 '''
+from kivy.uix.label import Label
+from kivy.uix.button import Button
+from kivy.uix.checkbox import CheckBox
+from kivy.uix.image import Image
+from kivy.uix.slider import Slider
+from kivy.uix.progressbar import ProgressBar
+from kivy.uix.textinput import TextInput
+from kivy.uix.togglebutton import ToggleButton
+from kivy.uix.switch import Switch
+from kivy.uix.video import Video
+
+from kivy.uix.anchorlayout import AnchorLayout
+from kivy.uix.boxlayout import BoxLayout
+from kivy.uix.floatlayout import FloatLayout
+from kivy.uix.gridlayout import GridLayout
+from kivy.uix.pagelayout import PageLayout
+from kivy.uix.relativelayout import RelativeLayout
+from kivy.uix.scatterlayout import ScatterLayout
+from kivy.uix.stacklayout import StackLayout
+
+from kivy.uix.bubble import Bubble
+from kivy.uix.dropdown import DropDown
+from kivy.uix.filechooser import FileChooser
+from kivy.uix.popup import Popup
+from kivy.uix.spinner import Spinner
+from kivy.uix.recycleview import RecycleView
+from kivy.uix.tabbedpanel import TabbedPanel
+from kivy.uix.videoplayer import VideoPlayer
+from kivy.uix.vkeyboard import VKeyboard
+
+from kivy.uix.scatter import Scatter
+from kivy.uix.stencilview import StencilView
+
+from kivy.uix.screenmanager import ScreenManager
